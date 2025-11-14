@@ -21,6 +21,7 @@
 * [REQUISITOS DO SOFTWARE](#requisitos-do-software)
   * [REQUISITOS FUNCIONAIS](#requisitos-funcionais)
   * [REQUISITOS NÃO FUNCIONAIS](#requisitos-não-funcionais)
+* [MODELAGEM BANCO DE DADOS](modelagem.md)
 * [PROTOTIPAGEM](#prototipagem)
 * [DIAGRAMA DE ATIVIDADES](#diagrama-de-atividades)
 * [DIAGRAMA DE SEQUÊNCIA](#diagrama-de-sequência)

@@ -4,13 +4,13 @@
 **Plataforma de Serviços**
 
 ## 📚 Sumário
-1. [Minimundo](#1-minimundo)  
-2. [Documentação das Tabelas](#2-documentação-das-tabelas)  
- 2.1 [Grupo 1: Cadastro de Usuários](#21-grupo-1-cadastro-de-usuários)  
- 2.2 [Grupo 2: Cadastro de Serviços](#22-grupo-2-cadastro-de-serviços)  
- 2.3 [Grupo 3: Gestão e Interação](#23-grupo-3-gestão-e-interação)  
-3. [Resumo das Relações](#3-resumo-das-relações)  
-4. [Diagramas ERD](#4-diagramas-erd)
+1. [Minimundo](#1--minimundo)  
+2. [Documentação das Tabelas](#2--documentação-das-tabelas)  
+ 2.1 [Grupo 1: Cadastro de Usuários](#21--grupo-1-cadastro-de-usuários)  
+ 2.2 [Grupo 2: Cadastro de Serviços](#22-️-grupo-2-cadastro-de-serviços)  
+ 2.3 [Grupo 3: Gestão e Interação](#23-️-grupo-3-gestão-e-interação)  
+3. [Resumo das Relações](#3--resumo-das-relações)  
+4. [Diagramas ERD](#4--diagramas-erd)
 
 ---
 
