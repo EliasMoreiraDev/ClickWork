@@ -18,6 +18,19 @@ Ao final, o repositório deverá possuir o seguinte conteúdo:
     - Link para o [projeto](projeto.md) com uma breve descrição do escopo do projeto (visão geral).
 - Arquivo [projeto.md](projeto.md) com as devidas modificações
 
+----
+- Arquivo [README.md](modelagem.md), constendo:
+    - Minimundo
+    - Documentação das Tabelas
+     - Grupo 1: Cadastro de Usuários
+    - Grupo 2: Cadastro de Serviços
+  - Grupo 3: Gestão e Interação
+  - Resumo das Relações
+  - Diagramas ERD
+
+
+-----   
+
 - Diretório [img](/img/) contendo:
     1. Imagens do protótipo
     2. Imagens de todos os diagramas elaborados
@@ -27,7 +40,7 @@ Ao final, o repositório deverá possuir o seguinte conteúdo:
     2. Diagrama de Classes em formato editável
     3. Diagrama de Sequências em formato editável
     4. Diagrama de Atividades em formato editável
-
+-----
 - Arquivo [LICENSE](LICENSE) contendo licenciamento [MIT](https://choosealicense.com/licenses/mit/)
 
 - Diagrama de Casos de Uso (modelo editável e imagem armazenados nos respectivos diretórios)
@@ -35,9 +48,11 @@ Ao final, o repositório deverá possuir o seguinte conteúdo:
 - Diagrama de Atividades (modelo editável e imagem armazenados nos respectivos diretórios)
 - Diagrama de Sequências (modelo editável e imagem armazenados nos respectivos diretórios)
 
+
+------
 ## Links Úteis
 [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
 ## Link Figma
-[Serviços Públicos](https://www.figma.com/design/TtYtnfhJgsARSpc8F9XqzD/Untitled?node-id=0-1&t=VBfuReroBZS0Omgq-1)
+[Click Work](https://www.figma.com/design/TtYtnfhJgsARSpc8F9XqzD/Untitled?node-id=0-1&t=VBfuReroBZS0Omgq-1)
 
