@@ -19,7 +19,7 @@ Ao final, o repositório deverá possuir o seguinte conteúdo:
 - Arquivo [projeto.md](projeto.md) com as devidas modificações
 
 ----
-- Arquivo [README.md](modelagem.md), constendo:
+- Arquivo [Banco de Dados](modelagem.md), constendo:
     - Minimundo
     - Documentação das Tabelas
      - Grupo 1: Cadastro de Usuários
