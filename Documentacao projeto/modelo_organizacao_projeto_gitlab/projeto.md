@@ -156,20 +156,34 @@ RNF-12 | Compatibilidade | O sistema deve ser compatível com navegadores modern
 
 [ [INÍCIO](#projeto-de-software) ]
 
+-----
 # Diagrama de Atividades
-![Diagrama de Atividades](img/diagramas/atividades/diagrama_atv.jpg)
+\
+![Diagrama de Atividades](./img/diagramas/atividades/analise%20denuncias.png)
+\
+![Diagrama de Atividades](./img/diagramas/atividades//analise%20documentos.png)
+\
+![Diagrama de Atividades](./img/diagramas/atividades/cadastro%20de%20servico.png)
+\
+![Diagrama de Atividades](./img/diagramas/atividades/contratacao%20e%20avaliacao.png)
 
+-----
 # Diagrama de Sequência
-![Diagrama de Sequência(Administrador)](img/diagramas/sequencia/usuario_administrador.png)
-![Diagrama de Sequência(Colaborador)](img/diagramas/sequencia/usuario_colaborador.png)
-![Diagrama de Sequência(Operador)](img/diagramas/sequencia/usuario_operador_.png)
-![Diagrama de Sequência(Munícipe)](img/diagramas/sequencia/usuario_padrao.png)
+![Diagrama de Sequência(Administrador)](img/diagramas/sequencia/analise%20de%20denuncias.png)
 
+![Diagrama de Sequência(Colaborador)](img/diagramas/sequencia/analise%20de%20servico.png)
+
+![Diagrama de Sequência(Operador)](img/diagramas/sequencia/contratacao%20e%20avaliacao.png)
+
+![Diagrama de Sequência(Munícipe)](img/diagramas/sequencia/solicitacao%20de%20cadastro.png)
+
+-----
 # Diagrama de Classes
-![Diagrama de Classes](img/diagramas/classes/diagrama_de_classes.png)
+![Diagrama de Classes](img/diagramas/classes/Diagrama%20de%20classe.drawio.png)
 
+-----
 # Diagrama de Casos de Uso
-![Casos de uso](img/diagramas/casos_de_uso/casos_de_uso.jpeg)
+![Casos de uso](img/diagramas/casos_de_uso/Diagrama%20de%20caso%20de%20uso.jpg)
 
 ## Descrição / Especificação dos Casos de Uso
 
