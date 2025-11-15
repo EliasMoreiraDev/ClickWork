@@ -54,5 +54,5 @@ Ao final, o repositório deverá possuir o seguinte conteúdo:
 [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
 ## Link Figma
-[Click Work](https://www.figma.com/design/TtYtnfhJgsARSpc8F9XqzD/Untitled?node-id=0-1&t=VBfuReroBZS0Omgq-1)
+[Click Work](https://www.figma.com/design/1pSaZc6P2AFbFQuRWaYzcV/Projeto-Fabrica-de-Software?node-id=0-1&p=f&t=N9O3FUNqpMAL0uIU-0)
 
