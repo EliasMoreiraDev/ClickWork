@@ -102,6 +102,10 @@ RQ-11 | Buscar serviço | A busca deve retornar apenas anúncios ativos e aprova
 RQ-12 | Sistema de denúncias | Qualquer usuário pode denunciar anúncios ou perfis. Denúncias serão analisadas em até 48h. O conteúdo denunciado ficará oculto até conclusão da análise em casos graves. | Recomendável
 RQ-13 | Notificações push | Notificações serão enviadas apenas para eventos relevantes (novas mensagens, solicitações). O usuário pode gerenciar preferências no perfil. | Recomendável
 RQ-14 | Ver relatórios | O painel será disponibilizado aos usuários que possuem serviços cadastrados para que podem utilizá-lo como um dashboard de relatórios gerados com base em visualizações do perfil e serviço e solicitações dos clientes | Essencial
+RQ - 15 | Análise de cadastro | O administrador deverá analisar todo cadastro de usuário que seja feito na plataforma, podendo aceitar ou recusar o usuário caso necessário | Essencial
+RQ - 16 | Análise de denúncia | O administrador será responsável por analisar as denúncias feitas sobre determinados serviços ou prestador de serviços, caso as denúncias sejam válidas ele pode remover o usuário ou a postagem denunciada | Essencial
+RQ - 17 | Análise de  postagem de serviço | O administrador será responsável por analisar todo serviço antes dele ser postado na plataforma para ver se ele é válido e compatível com o site | Essencial
+
 
 
 
@@ -130,27 +134,31 @@ RNF-12 | Compatibilidade | O sistema deve ser compatível com navegadores modern
 ### Fluxo Básico do Cliente
 
 ![1_Cadastro](img/prototipo/usuario/Tela%20Cadastro%20Informacoes%20Pessoais.png)
+![1_Doc](img/prototipo/usuario/Tela%20Cadastro%20Documento%20Pessoal.png)
+![2_Endereco](img/prototipo/usuario/Tela%20Cadastro%20Prestador%20Endereco.png)
+![3_Redes](img/prototipo/usuario/Tela%20Cadastro%20Redes%20sociais.png)
 ![2_Login](img/prototipo/usuario/Tela%20Login.png)
 ![3_Home](img/prototipo/usuario/Pagina%20inicial%20Sem%20Login.png)
-![4_Servicos](img/prototipo/usuario/Pagina%20servicos%20categoria.png)
+![4_ServicosCategoria](img/prototipo/usuario/Pagina%20servicos%20categoria.png)
+![4_Servico](img/prototipo/usuario/Pagina%20de%20servico.png)
 ![5_Perfil](img/prototipo/usuario/Tela%20perfil%20Usuario%20comum.png)
 ![6_Esqueci](img/prototipo/usuario/esqueceu%20a%20senha.png)
 ![7_Avaliacao](img/prototipo/usuario/POP-UP%20AVALIAÇÃO.png)
 
-### Fluxo de Conversão (Cliente -> Prestador)
+### Fluxo de Opções para o Prestador
 
-![1_Doc](img/prototipo/usuario/Tela%20Cadastro%20Documento%20Pessoal.png)
-![2_Endereco](img/prototipo/usuario/Tela%20Cadastro%20Prestador%20Endereco.png)
-![3_Redes](img/prototipo/usuario/Tela%20Cadastro%20Redes%20sociais.png)
-![4_Servico](img/prototipo/prestador/Tela%20Cadastro%20Servico.png)
+
+![4_CadastrarServico](img/prototipo/prestador/Tela%20Cadastro%20Servico.png)
+![4_PerfilPrestador](img/prototipo/prestador/Tela%20perfil.png)
 ![5_Painel](img/prototipo/prestador/Tela%20painel%20prestador.png)
+![5_Painel](img/prototipo/prestador/Pagina%20servicos%20do%20prestador.png)
 
 ### Fluxo do Moderador (ADM)
 
 ![1_ADM](img/prototipo/administrador/ADM.png)
-![2_Verif1](img/prototipo/administrador/edit%20user.png)
-![3_Verif2](img/prototipo/administrador/edit%20user-1.png)
-![4_Visualizacao](img/prototipo/administrador/visualizacao%20do%20servico.png)
+![2_Verif1](img/prototipo/administrador/servico-adm.png)
+![3_Verif2](img/prototipo/administrador/denuncia-adm.png)
+![4_Visualizacao](img/prototipo/administrador/analise-cadastro-adm.png)
 
 [ [INÍCIO](#projeto-de-software) ]
 
